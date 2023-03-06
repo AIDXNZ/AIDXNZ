@@ -1,8 +1,6 @@
 # Hello 👋
 ## My Name is Aidan
 
-I am a software engineer focused on security
-
 I like working with Rust, IPFS, Libp2p and much more
 - 🏢 I'm currently working on CISSP ISC2 Certifiication, Mobile IPFS Impelmentation
 - ⚙️ I use daily: `.rs`, `.py`
