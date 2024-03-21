@@ -1,5 +1,5 @@
-# Hello 👋 I'm Aidan
-I am a driven individual with a passion for learning. You can find me programming or hacking something at almost any given time! 
+# Security Engineer - Peneteation Tester
+Hello! I'm Aidan and I am a driven individual with a passion for learning. You can find me programming or hacking something at almost any given time! 
 
 More about me:
 - 🏢 I'm currently working on acquiring the CPTS and OSCP
